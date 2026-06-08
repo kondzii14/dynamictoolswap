@@ -34,7 +34,7 @@ public class DynamicToolSwap implements ClientModInitializer {
 
             boolean isAttacking = client.options.attackKey.isPressed();
 
-            // Only trigger on the FIRST tick of pressing LMB
+            // Only trigger on the first tick of pressing LMB
             if (isAttacking && !wasAttacking) {
                 handleAttack(client, player);
             }
