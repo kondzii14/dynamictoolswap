@@ -6,7 +6,7 @@ A Minecraft 1.21.1 Fabric QOL mod that automatically equips the best tool from y
 
 - ⛏️ Stone, ores, metals → best pickaxe
 - 🪓 Logs, wood, leaves, chests → best axe
-- 🪣 Dirt, sand, gravel, snow → best shovel
+- 🪏 Dirt, sand, gravel, snow → best shovel
 - ⚔️ Mobs → best sword
 - 🌾 Hay, nylium, sponge → best hoe
 - ⚠️ Warns you in chat if your pickaxe tier is too low for the ore
